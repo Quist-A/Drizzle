@@ -17,7 +17,7 @@ also for p>1.
 Examples: Some examples to use implementation are stated below functions in comments. 
 
 Time complexity: Duration to drizzle one image of size 300 x 300 pixels with n = 2, p = 0.6 
-is approximately 0.4 sec on a 2020 pc. For larger imagesize this time increases fast. 
+is approximately 0.4 sec on a 2020 pc. For larger image size this time increases fast. 
 See Bachelor's Thesis of Arend-Jan Quist for more detailed time duration results.
 
 To be improved: 
