@@ -1,15 +1,12 @@
-python >= 3.7
+# python >= 3.7
 
 numpy >= 1.18
 matplotlib
 scikit-image
 scipy >= 1.4
-timeit
 
 # packages for shift detection
 dask
-os
 numba
-time
 xarray
 ipywidgets
